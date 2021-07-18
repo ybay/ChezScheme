@@ -23,6 +23,7 @@
 有关更多信息，请参阅[啬赛美项目页面](https://cisco.github.io/ChezScheme/)。
 
 ================================================================================
+
 [![Build Status](https://travis-ci.org/cisco/ChezScheme.svg?branch=master)](https://travis-ci.org/cisco/ChezScheme)
 
 Chez Scheme is both a programming language and an implementation
