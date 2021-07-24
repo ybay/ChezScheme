@@ -3,7 +3,8 @@
 # 简介
 #### 源：https://github.com/cisco/ChezScheme
 
-三策码(Chez Scheme，法语音 Chez Schème)既是一种编程语言，也是该语言的一种实现，带有支持工具和文档。三策码之母是解释型语言 Lisp，但是三策码可以将源文件预编译为二进制形式存储和运行，极大地提高了程序的速度性能。
+三策码(Chez Scheme，法语音 Chez Schème)既是一种编程语言，也是一种语言的自繁实现，带有支持工具和文档。三策码是 Lisp 语言中 Lisp-Scheme 的另一“地区方言”。三策码之母是解释型语言 Lisp，Lisp 这门古老的经典语言是因其曾广泛应用于人工智能而扬名于世，但是三策码可以将源文件预编译为二进制形式存储和运行，极大地提高了程序的速度性能。
+
 
 作为“关于算法语言方案的修订版<sup>6</sup>报告”([Revised<sup>6</sup> Report on the Algorithmic Language Scheme](http://www.r6rs.org)
 ，R6RS)中描述的语言的超集，三策码支持思策码(Scheme，法语音 Schème)的所有标准特性，包括一流的过程、尾调用的正确处理、延续、用户定义的记录、库、异常和纯净宏扩展。
